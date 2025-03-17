@@ -5,7 +5,7 @@ const path = require("path");
 const app = express();
 const PORT = 3000;
 
-const YOUTUBE_STREAM_KEY = "wm5c-dbjh-xv98-7c3t-7v25";
+const YOUTUBE_STREAM_KEY = "333m-4wxh-42p6-9y8t-6ghu";
 const YOUTUBE_VIDEO_URL = "https://www.youtube.com/watch?v=UIsf0eDOoMo";
 const STREAM_URL = `rtmp://a.rtmp.youtube.com/live2/${YOUTUBE_STREAM_KEY}`;
 const OFFSET_FILE = "last_offset.txt";
